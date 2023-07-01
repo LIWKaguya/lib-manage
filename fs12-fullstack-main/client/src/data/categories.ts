@@ -1,0 +1,1 @@
+export const categories = ['Fantasy', 'Mystery', 'Horror', 'Thriller', 'Romance', 'Novel', 'Short', 'Memoir', 'History', 'Humor', 'Religion', 'Children']
